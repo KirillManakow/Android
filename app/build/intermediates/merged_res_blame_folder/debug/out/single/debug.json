@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_maska_nastroenie.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\maska_nastroenie.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_nav.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\nav.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_picture.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\font_alegreya_sans_thin.ttf.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\font\\alegreya_sans_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_add_picture.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\add_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable_login.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\font_alegreya_sc.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\font\\alegreya_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_style_fon.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\style_fon.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_menu.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\font_alegreya.ttf.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\font\\alegreya.ttf"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_maska_zagolovka.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\maska_zagolovka.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_foto.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\foto.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_music.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_hamburger.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\hamburger.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-5:/layout_activity_photo.xml.flat",
+        "source": "com.example.myapplication.app-main-7:/layout/activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_picture.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\font_alegreya_sc_bold.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\font\\alegreya_sc_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_photo.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable_background.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_plus.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_on_board.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_on_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\font_alegreya_bold.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\font\\alegreya_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_listen.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_listen.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_calm.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\calm.png"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_maska_picture.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\maska_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_koala.jpg.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\koala.jpg"
+    },
+    {
+        "merged": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-5:\\drawable-v24_profile.png.flat",
+        "source": "C:\\Users\\МанаковКА\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-7:\\drawable-v24\\profile.png"
+    }
+]

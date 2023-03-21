@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:8:5-88:19
+15        android:allowBackup="true"
+15-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.8.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+17        android:dataExtractionRules="@xml/data_extraction_rules"
+17-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:10:9-65
+18        android:debuggable="true"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:11:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:13:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:15:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.MyApplication"
+25-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:17:9-51
+26        android:usesCleartextTraffic="true" >
+26-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:16:9-44
+27        <activity
+27-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:19:9-25:20
+28            android:name="com.example.myapplication.listen"
+28-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:20:13-35
+29            android:exported="false" >
+29-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:21:13-37
+30            <meta-data
+30-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+31                android:name="android.app.lib_name"
+31-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+32                android:value="" />
+32-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+33        </activity>
+34        <activity
+34-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:26:9-32:20
+35            android:name="com.example.myapplication.menu"
+35-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:27:13-33
+36            android:exported="false" >
+36-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:28:13-37
+37            <meta-data
+37-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+38                android:name="android.app.lib_name"
+38-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+39                android:value="" />
+39-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+40        </activity>
+41        <activity
+41-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:33:9-39:20
+42            android:name="com.example.myapplication.Profile"
+42-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:34:13-36
+43            android:exported="false" >
+43-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:35:13-37
+44            <meta-data
+44-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+45                android:name="android.app.lib_name"
+45-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+46                android:value="" />
+46-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+47        </activity>
+48        <activity
+48-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:40:9-46:20
+49            android:name="com.example.myapplication.OnBoard"
+49-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:41:13-36
+50            android:exported="false" >
+50-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:42:13-37
+51            <meta-data
+51-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+52                android:name="android.app.lib_name"
+52-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+53                android:value="" />
+53-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+54        </activity>
+55        <activity
+55-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:47:9-53:20
+56            android:name="com.example.myapplication.Register"
+56-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:48:13-37
+57            android:exported="false" >
+57-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:49:13-37
+58            <meta-data
+58-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+59                android:name="android.app.lib_name"
+59-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+60                android:value="" />
+60-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+61        </activity>
+62        <activity
+62-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:54:9-60:20
+63            android:name="com.example.myapplication.Login"
+63-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:55:13-34
+64            android:exported="false" >
+64-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:56:13-37
+65            <meta-data
+65-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+66                android:name="android.app.lib_name"
+66-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+67                android:value="" />
+67-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+68        </activity>
+69        <activity
+69-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:61:9-67:20
+70            android:name="com.example.myapplication.Main"
+70-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:62:13-33
+71            android:exported="false" >
+71-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:63:13-37
+72            <meta-data
+72-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+73                android:name="android.app.lib_name"
+73-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+74                android:value="" />
+74-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+75        </activity>
+76        <activity
+76-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:68:9-74:20
+77            android:name="com.example.myapplication.photo"
+77-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:69:13-34
+78            android:exported="false" >
+78-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:70:13-37
+79            <meta-data
+79-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+80                android:name="android.app.lib_name"
+80-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+81                android:value="" />
+81-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+82        </activity>
+83        <activity
+83-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:75:9-87:20
+84            android:name="com.example.myapplication.MainActivity"
+84-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:76:13-41
+85            android:exported="true" >
+85-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:77:13-36
+86            <intent-filter>
+86-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:78:13-82:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:79:17-69
+87-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:79:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:81:17-77
+89-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:81:27-74
+90            </intent-filter>
+91
+92            <meta-data
+92-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:22:13-24:36
+93                android:name="android.app.lib_name"
+93-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:23:17-52
+94                android:value="" />
+94-->C:\Android_Practice\1\app\src\main\AndroidManifest.xml:24:17-33
+95        </activity>
+96
+97        <provider
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+98            android:name="androidx.startup.InitializationProvider"
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+99            android:authorities="com.example.myapplication.androidx-startup"
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+100            android:exported="false" >
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+101            <meta-data
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+102-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+103                android:value="androidx.startup" />
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\МанаковКА\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+104            <meta-data
+104-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\МанаковКА\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+105                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+105-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\МанаковКА\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+106                android:value="androidx.startup" />
+106-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\МанаковКА\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+107        </provider>
+108    </application>
+109
+110</manifest>

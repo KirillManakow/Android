@@ -1,8 +1,8 @@
-package com.example.layout;
+package com.example.myapplication;
 
 import java.io.File;
 
-public class MaskaImage {
+public class MaskaPicture {
 
 
     public int id;
@@ -10,7 +10,7 @@ public class MaskaImage {
     public File imageProfile;
     public String data;
 
-    public MaskaImage(int id, String path, File imageProfile, String data) {
+    public MaskaPicture(int id, String path, File imageProfile, String data) {
         this.id = id;
         this.path = path;
         this.imageProfile = imageProfile;

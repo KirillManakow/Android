@@ -1,9 +1,10 @@
-package com.example.layout;
+package com.example.myapplication;
 
 import android.content.Context;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
+
 class OnSwipeTouchListener implements View.OnTouchListener {
     private GestureDetector gestureDetector;
     OnSwipeTouchListener(Context c) {
@@ -76,7 +77,7 @@ class OnSwipeTouchListener implements View.OnTouchListener {
     }
     private void onClick() {
     }
-    private void onDoubleClick() {
+    void onDoubleClick() {
     }
     private void onLongClick() {
     }

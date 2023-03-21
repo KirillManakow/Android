@@ -25,7 +25,7 @@
         android:layout_marginTop="40dp"
         android:onClick="Menu"
         android:scaleType="fitXY"
-        android:src="@drawable/hamburger"
+        android:src="@drawable/menu"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"></ImageView>
 
@@ -105,7 +105,7 @@
         android:layout_marginBottom="7dp"
         android:onClick="Listen"
         android:scaleType="fitXY"
-        android:src="@drawable/nav"
+        android:src="@drawable/music"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/Profile"
         app:layout_constraintStart_toEndOf="@+id/home"></ImageView>

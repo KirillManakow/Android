@@ -1,24 +1,23 @@
-package com.example.layout;
+package com.example.myapplication;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.motion.widget.OnSwipe;
-
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
-import android.view.GestureDetector;
-import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
-import android.view.View.OnTouchListener;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class photo extends AppCompatActivity  {
     ImageView imageView;
     RelativeLayout layout;
+    private boolean isImageScaled;
 
+    @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,6 +46,15 @@ public class photo extends AppCompatActivity  {
                 super.onSwipeRight();
                 startActivity(new Intent(photo.this, Profile.class));
                }
+            @Override
+            public void onDoubleClick() {
+                super.onDoubleClick();
+
+                if (!isImageScaled) imageView.animate().scaleX(1.6f).scaleY(1.6f).setDuration(500);
+                if (isImageScaled) imageView.animate().scaleX(1f).scaleY(1f).setDuration(500);
+                isImageScaled = !isImageScaled;
+
+            }
         });
 
         if(Profile.maskProfileImage.getImageProfile().exists()){

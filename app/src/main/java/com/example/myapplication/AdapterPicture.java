@@ -1,4 +1,4 @@
-package com.example.layout;
+package com.example.myapplication;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -11,12 +11,11 @@ import android.widget.TextView;
 
 import java.util.List;
 
-public class AdapterImage extends BaseAdapter {
-
+public class AdapterPicture extends BaseAdapter {
     private Context mContext;
-    List<MaskaImage> maskList;
+    List<MaskaPicture> maskList;
 
-    public AdapterImage(Context mContext, List<MaskaImage> maskList) {
+    public AdapterPicture(Context mContext, List<MaskaPicture> maskList) {
         this.mContext = mContext;
         this.maskList = maskList;
     }
@@ -40,14 +39,14 @@ public class AdapterImage extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
-        View v = View.inflate(mContext,R.layout.maska_image,null);
+        View v = View.inflate(mContext,R.layout.maska_picture,null);
 
         ImageView Image = v.findViewById(R.id.ppz);
         TextView dateCreat = v.findViewById(R.id.time);
 
 
 
-        MaskaImage maskProfileImage  = maskList.get(position);
+        MaskaPicture maskProfileImage  = maskList.get(position);
 
         if(maskProfileImage.getImageProfile().exists()){
 
